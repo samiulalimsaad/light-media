@@ -13,7 +13,7 @@
         "dotenv": "^10.0.0",
         "firebase": "^10.9.0",
         "formik": "^2.2.9",
-        "moment": "^2.29.2",
+        "moment": "^2.31.0",
         "mongoose": "^6.13.6",
         "next": "^15.5.18",
         "next-connect": "^0.11.0",
